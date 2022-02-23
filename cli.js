@@ -22,6 +22,7 @@ if (command === "list") {
 
 function runListCommand() {
   // Replace this with your implementation
+
   console.log(
     "All members: " +
       " " +
@@ -29,4 +30,5 @@ function runListCommand() {
         return member.firstName + " " + member.lastName;
       })
   );
+
 }

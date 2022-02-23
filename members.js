@@ -25,6 +25,7 @@ const members = [
     firstName: "Bob",
     lastName: "Doe",
     jobTitle: "Software Engineer",
+    department: "Engineering",
     manager: "Jane Doe",
     location: "Cape Town",
     firstAider: "No",

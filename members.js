@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const members = [
   {
     firstName: "John",
@@ -44,5 +45,8 @@ const members = [
     timeZone: "America/Los_Angeles",
   },
 ];
+=======
+const members = [];
+>>>>>>> parent of 8fe295e (Stored member data in array of objects)
 
 module.exports = members;
